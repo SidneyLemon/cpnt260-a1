@@ -1,4 +1,4 @@
-Course title: CPNT 260 
+  Course title: CPNT 260 
 Assignment name: Assignment 1: Text Column
 Author name: Sidney Lemon
 A link to the GH Pages site: https://sidneylemon.github.io/cpnt260-a1/
